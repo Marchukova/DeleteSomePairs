@@ -1,5 +1,5 @@
 # DeleteSomePairs
-Multithreading program solves follin problem
+Multithreading program solves follin problem:
 Дана последовательность отсчетов, представляющих собой пары (int Х : int Y). Отсчеты упорядочены по значениям Х.
 В этой последовательности могут встречаться подпоследовательности, состоящие из идентичных отсчетов. 
 Идентичные отсчеты имеют одинаковые значения Y. 
